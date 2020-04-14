@@ -1,2 +1,2 @@
-# wvd-sh
+# RDS-Templates
 Automatización WVD
